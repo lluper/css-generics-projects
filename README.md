@@ -5,6 +5,8 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------|---|
 | [Nike card]( https://github.com/lluper/css-generics-projects/tree/master/nike-card)                                                  |             |   |
 | [Responsive Corona Tips ](https://github.com/lluper/css-generics-projects/tree/master/responsive-corona-tips-layouts-using-css-grid) |             |   |
+| [CSS List Item Hover Effects](https://github.com/lluper/css-generics-projects/tree/master/css-list-Item-hover-effects)               |             |   |
+| [CSS Card Hover Effects](https://github.com/lluper/css-generics-projects/tree/master/css-card-hover-effects)                         |             |   |
 |                                                                                                                                      |             |   |
 |                                                                                                                                      |             |   |
 
